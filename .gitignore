@@ -19,7 +19,6 @@ Homestead.yaml
 /client/node_modules
 
 # env
-.env
 .env.backup
 # logs
 .phpunit.result.cache
@@ -30,7 +29,6 @@ yarn-error.log
 
 # code editors
 /.idea
-/.vscode
 *.suo
 *.ntvs*
 *.njsproj
@@ -39,3 +37,4 @@ yarn-error.log
 storage
 /.docker/prod/db/dbdata/
 /.docker/dev/db/dbdata/
+config.bat
